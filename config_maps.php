@@ -46,7 +46,7 @@ function location_register_meta_boxes( $meta_boxes ) {
             'type'          => 'osm',
             'address_field' => $prefix . 'address',
             'std'           => '16.063220, 108.205881',
-            'api_key'       => 'AIzaSyDQSG_tqtG1xntgdPZfAkDQo7vC68IRjmY',
+            'api_key'       => 'xxx',
         ),
     )
   );
